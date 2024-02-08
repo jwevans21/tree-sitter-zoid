@@ -1,0 +1,2 @@
+// A basic comment
+fn main(): i32 {}
